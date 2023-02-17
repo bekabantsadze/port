@@ -311,8 +311,32 @@ color: #44445C;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+
 }
 .section6-p{
     margin-top: 10px;
+}
+     .question-h5{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 10px;
+     }   
+     .question-wraper{
+        margin-top: 48px;
+     } 
+.question-p{
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 10px;
+/* or 71% */
+
+display: flex;
+align-items: center;
+margin-top:20px;
+color: #000000;
 }
