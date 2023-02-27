@@ -14,7 +14,7 @@ body {
   position:absolute;
   bottom:0;
   left:0;
-  background: #015871;
+  background: #171919;
 }
 
 .wave {
@@ -210,7 +210,7 @@ button.ghost {
 
 .overlay {
   background: #ff416c;
-  background: linear-gradient(to right, #008ecf, #008ecf) no-repeat 0 0 / cover;
+  background: linear-gradient(to right, rgb(184, 184, 40),  rgb(222, 222, 23)) no-repeat 0 0 / cover;
   color: #fff;
   position: relative;
   left: -100%;
@@ -278,3 +278,6 @@ button.ghost {
 
 /* https://Github.com/YasinDehfuli
  https://Codepen.io/YasinDehfuli */
+ .header-logo{
+  padding-bottom: 100px;
+ }
